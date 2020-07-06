@@ -229,8 +229,25 @@
           1,
           null
         ]
+      },
+      "/Users/judithpillado/mod2/projects/adopt_dont_shop_2005/app/controllers/shelters_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/judithpillado/mod2/projects/adopt_dont_shop_2005/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1593996099
+    "timestamp": 1593996312
   }
 }
